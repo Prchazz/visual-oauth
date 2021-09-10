@@ -2,7 +2,7 @@
 
 A tool to learn about OAuth in a step-by-step interactive environment.
 
-# Usage
+# Usage for
 
 1. clone this application repo
 2. create a GitHub OAuth Application
